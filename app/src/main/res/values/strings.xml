@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Escenario2</string>
+    <string name="opcionen1_1">Sevilla</string>
+    <string name="opcionen1_2">Betis</string>
+    <string name="opcionen1_3">Malaga</string>
+    <string name="opcionen2_1">Guadiana</string>
+    <string name="opcionen2_2">Tajo</string>
+    <string name="opcionen2_3">Ebro</string>
+    <string name="opcionen3_1">Holanda</string>
+    <string name="opcionen3_2">Francia</string>
+    <string name="opcionen3_3">Alemania</string>
+    <string-array name="Opciones">
+        <item>Fútbol</item>
+        <item>Ríos</item>
+        <item>Paises</item>
+    </string-array>
+</resources>
